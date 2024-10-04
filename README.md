@@ -56,4 +56,7 @@
     Username – admin
     Password – admin
 
+### Grafana Dashboard
+
+![gg](https://github.com/user-attachments/assets/66913fd6-b6bf-44e1-ac6d-1fca2c082c1c)
 
