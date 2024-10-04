@@ -9,6 +9,15 @@
   <li>We can save the dashboard and can even share with our team members which is one of the main advantage of Grafana.</li>
 </ul>
 
+## Architecture Diagram 1 of Grafana 
+
+<img width="1000" alt="ww" src="https://github.com/user-attachments/assets/4bb097a7-a1fb-4bfc-879d-4965c5b1890a">
+
+## Architecture Diagram 2 of Grafana 
+
+![rr](https://github.com/user-attachments/assets/a107176b-ea11-4355-a0a4-ac60bc4f6011)
+
+
 ## Installing Grafana
 
 ### We can install Grafana on Linux either by downloading .deb package from Grafana Download page or using apt which is more easier.
@@ -46,3 +55,5 @@
 
     Username – admin
     Password – admin
+
+
